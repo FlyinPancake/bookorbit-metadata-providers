@@ -111,7 +111,7 @@
       "name": "Moly",
       "summary": "Hungarian books and audiobooks from moly.hu: descriptions, series, editions with ISBNs and covers, narrators, tags and ratings.",
       "image": "ghcr.io/flyinpancake/bookorbit-moly-provider",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "port": 8080,
       "docsUrl": "https://github.com/FlyinPancake/bookorbit-moly-provider",
       "homepage": "https://moly.hu",
